@@ -25,36 +25,6 @@ A comprehensive web application for managing personal finances, tracking expense
 
 ## Screenshots
 
-### Sign In Page
-![Sign In Page](screenshots/signin.png)
-*User authentication with email and password*
-
-### Sign Up Page
-![Sign Up Page](screenshots/signup.png)
-*New user registration form*
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-*Main dashboard showing financial overview, recent transactions, and quick actions*
-
-### Income Management
-![Income](screenshots/income.png)
-*Income tracking and management interface*
-
-### Expense Tracking
-![Expenses](screenshots/expenses.png)
-*Expense tracking with categorization*
-
-### Investment Portfolio
-![Investments](screenshots/investments.png)
-*Investment portfolio management and tracking*
-
-### Profile Settings
-![Profile](screenshots/profile.png)
-*User profile and settings management*
-
-*Note: Place your screenshot images in a `screenshots` directory in your project root.*
-
 ## Technologies Used
 - **Frontend:**
   - React.js
