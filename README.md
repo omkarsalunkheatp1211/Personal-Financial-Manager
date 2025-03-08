@@ -24,6 +24,9 @@ A comprehensive web application for managing personal finances, tracking expense
 - Responsive design for all devices
 
 ## Screenshots
+![3](https://github.com/user-attachments/assets/308cc14e-7800-4a8b-b8aa-95e7bcd722c8)
+![4](https://github.com/user-attachments/assets/affa5e4a-c93d-4bc6-997f-57afdd927da8)
+![5](https://github.com/user-attachments/assets/54467e2b-25c8-47f4-9a40-add7f064a294)
 
 
 ## Technologies Used
