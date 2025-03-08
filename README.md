@@ -151,30 +151,3 @@ Database Schema:
   date: Date
 }
 ```
-
-## API Endpoints
-
-### Authentication
-- POST `/api/users` - Register a new user
-- POST `/api/auth` - Login user
-- GET `/api/auth` - Get authenticated user
-
-### Transactions
-- GET `/api/transactions` - Get all transactions
-- POST `/api/transactions` - Add new transaction
-- PUT `/api/transactions/:id` - Update transaction
-- DELETE `/api/transactions/:id` - Delete transaction
-
-### Investments
-- GET `/api/investments` - Get all investments
-- POST `/api/investments` - Add new investment
-- PUT `/api/investments/:id` - Update investment
-- DELETE `/api/investments/:id` - Delete investment
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
