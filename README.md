@@ -25,6 +25,7 @@ A comprehensive web application for managing personal finances, tracking expense
 
 ## Screenshots
 
+
 ## Technologies Used
 - **Frontend:**
   - React.js
@@ -57,7 +58,7 @@ The application follows a modern MERN stack architecture:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-finance-manager.git
+   git clone https://github.com/omkarsalunkheatp1211/Personal-Financial-Manager.git
    cd personal-finance-manager
    ```
 
@@ -174,7 +175,3 @@ Database Schema:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License. 
